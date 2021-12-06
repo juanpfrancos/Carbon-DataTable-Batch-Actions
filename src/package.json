@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "carbon-icons": "latest",
+    "carbon-components-react": "latest",
+    "carbon-components": "latest"
+  },
+  "keywords": [],
+  "name": "datatable-with-batch-actions",
+  "description": ""
+}
